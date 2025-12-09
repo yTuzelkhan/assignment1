@@ -1,1 +1,1 @@
-gjytjyt
+public class Recatangle {}
